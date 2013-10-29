@@ -1,0 +1,10 @@
+(deftemplate firma
+(slot nazwa (type string))
+(slot cena-przewozu (type float))
+(slot cena-za³adunku (type float))
+(multislot zasiêg (type string))
+(multislot flota (type string))
+(slot obs³uguje-specjalne)
+(slot obs³uguje-ch³odniê)
+(slot ³adownoœæ (type float))
+)

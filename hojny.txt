@@ -1,8 +1,0 @@
-www.galaxy.agh.edu.pl/~mhojny
-grafika komp 
-
-Prawym na projekcie, properties pozniej w nowym oknie w leqym gornym rogu 
-zmieniasz na wszystkie ostattnia pozycja pozniej wchodzisz w c++ general i  
-na samej gorze zalanczasz folder imclude z glut37 pozniej w linkera klikasz 
-input tam na samej gorze dodahesz glut32.lib i w general w linkerze dalej mniejwiecej 
-po srodku dodajesz ten folder glut32 i na koncu do projektu vissuala dodajesz .dlla
